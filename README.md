@@ -32,4 +32,4 @@ Understanding the mathematical principles behind machine learning and deep learn
 ## How to Use This Repository
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/ml-dl-math-basics.git
+   git clone https://github.com/anuz505/Mathematics-for-AI.git
